@@ -5825,7 +5825,6 @@ dependencies = [
  "clap",
  "color-eyre",
  "eyre",
- "fs-err",
 ]
 
 [[package]]
